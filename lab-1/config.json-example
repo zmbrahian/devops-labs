@@ -1,0 +1,8 @@
+{
+    "config":{
+        "username": "",
+        "password": "",
+        "db": "",
+        "db_host":""
+    }
+}
